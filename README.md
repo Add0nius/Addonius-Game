@@ -1,4 +1,7 @@
 # Addonius-Game
+![Addonius header](ADDONIUS_Design_Mocks/AddoniusHero-min.jpg)
+
+
 Addonius Space Shooter Game FREE for PC & Android. Open Source (but limited) Project for Unity, see more in [license.txt](license.txt) file. See ["Releases"](https://github.com/Add0nius/Addonius-Game/releases) section in GitHub repository to download the installables or development packages. Links:
 - [Addonius Website](https://www.addonius.com/)
 - [FREE in Microsoft Store](https://apps.microsoft.com/detail/9mzrr85c48nm?hl=en-us&gl=US)
